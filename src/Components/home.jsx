@@ -67,6 +67,7 @@ function Home() {
                     <Row>
                         <Col md={12} className="home-about-social">
                             <h1>GET IN TOUCH WITH ME</h1>
+                            <p>hello world</p>
                             <ul className="home-about-social-links">
 
                                 <li className="social-icons">
