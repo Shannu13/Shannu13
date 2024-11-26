@@ -81,15 +81,6 @@ function Home() {
                                     <span className="contact-info">sahanar135@gmail.com</span>
 
                                 </li>
-                                <li className="social-icons">
-                                    <a
-                                        className="icon-colour  home-social-icons"
-                                    >
-                                        <AiOutlinePhone />
-                                    </a>
-                                    <span className="contact-info"> 9740908239</span>
-
-                                </li>
                             </ul>
                         </Col>
                     </Row>
